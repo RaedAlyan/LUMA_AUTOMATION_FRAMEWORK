@@ -1,0 +1,5 @@
+{
+  "browser": "chrome",
+  "sign_up_page_url": "https://magento.softwaretestingboard.com/customer/account/create/",
+  "sign_in_page_url": "https://magento.softwaretestingboard.com/customer/account/login"
+}
